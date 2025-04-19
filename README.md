@@ -24,18 +24,4 @@ A simple and responsive Hangman game built with **C# backend** and **JavaScript 
 3. Avoid making too many wrong guesses or the hangman will be fully drawn!
 4. Win by guessing the full word.
 
-## 📁 Project Structure
-/HangmanGame
-│
-├── Controllers/
-│   └── HangmanController.cs
-├── Models/
-│   ├── HangmanGame.cs
-│   ├── GuessRequest.cs
-│   └── WordList.cs
-├── wwwroot/
-│   ├── images
-│   ├── index.html
-│   ├── app.js
-│   └── style.css
-└── Program.cs
+## 📁 Project Structure ```text /HangmanGame │ ├── Controllers/ │ └── HangmanController.cs ├── Models/ │ ├── HangmanGame.cs │ ├── GuessRequest.cs │ └── WordList.cs ├── wwwroot/ │ ├── images │ ├── index.html │ ├── app.js │ └── style.css └── Program.cs ```
